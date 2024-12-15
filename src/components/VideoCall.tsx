@@ -1,5 +1,5 @@
 import { FC } from "react";
-import scss from "./VideoCall.module.scss";
+
 import uuid4 from "uuid4";
 import { ZegoUIKitPrebuilt } from "@zegocloud/zego-uikit-prebuilt";
 
